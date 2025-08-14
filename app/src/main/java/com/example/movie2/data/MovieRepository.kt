@@ -138,18 +138,6 @@ class MovieRepository(context: Context) {
                 plot = "Batman has not been seen for ten years. A new breed of criminal ravages Gotham City, forcing 55-year-old Bruce Wayne back into the cape and cowl. But, does he still have what it takes to fight crime in a new era?"
             ),
             Movie(
-                title = "The Lord of the Rings: The Return of the King",
-                year = "2003",
-                rated = "PG-13",
-                released = "17 Dec 2003",
-                runtime = "201 min",
-                genre = "Action, Adventure, Drama",
-                director = "Peter Jackson",
-                writer = "J.R.R. Tolkien, Fran Walsh, Philippa Boyens",
-                actors = "Elijah Wood, Viggo Mortensen, Ian McKellen",
-                plot = "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring."
-            ),
-            Movie(
                 title = "Inception",
                 year = "2010",
                 rated = "PG-13",
