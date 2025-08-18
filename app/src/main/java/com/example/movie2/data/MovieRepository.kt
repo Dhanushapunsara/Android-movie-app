@@ -126,18 +126,6 @@ class MovieRepository(context: Context) {
                 plot = "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
             ),
             Movie(
-                title = "Batman: The Dark Knight Returns, Part 1",
-                year = "2012",
-                rated = "PG-13",
-                released = "25 Sep 2012",
-                runtime = "76 min",
-                genre = "Animation, Action, Crime, Drama, Thriller",
-                director = "Jay Oliva",
-                writer = "Bob Kane (character created by: Batman), Frank Miller (comic book), Klaus Janson (comic book), Bob Goodman",
-                actors = "Peter Weller, Ariel Winter, David Selby, Wade Williams",
-                plot = "Batman has not been seen for ten years. A new breed of criminal ravages Gotham City, forcing 55-year-old Bruce Wayne back into the cape and cowl. But, does he still have what it takes to fight crime in a new era?"
-            ),
-            Movie(
                 title = "Inception",
                 year = "2010",
                 rated = "PG-13",
