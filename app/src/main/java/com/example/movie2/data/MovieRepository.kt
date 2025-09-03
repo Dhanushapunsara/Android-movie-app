@@ -126,18 +126,6 @@ class MovieRepository(context: Context) {
                 plot = "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
             ),
             Movie(
-                title = "Inception",
-                year = "2010",
-                rated = "PG-13",
-                released = "16 Jul 2010",
-                runtime = "148 min",
-                genre = "Action, Adventure, Sci-Fi",
-                director = "Christopher Nolan",
-                writer = "Christopher Nolan",
-                actors = "Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page",
-                plot = "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster."
-            ),
-            Movie(
                 title = "The Matrix",
                 year = "1999",
                 rated = "R",
