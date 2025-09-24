@@ -134,7 +134,7 @@ class MovieRepository(context: Context) {
                 genre = "Action, Sci-Fi",
                 director = "Lana Wachowski, Lilly Wachowski",
                 writer = "Lilly Wachowski, Lana Wachowski",
-                actors = "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",
+                actors = "Keanu Reeves, Carrie-Anne Moss",
                 plot = "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence."
             )
         )
